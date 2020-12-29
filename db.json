@@ -1,0 +1,25 @@
+{
+  "bookmarks": [
+    {
+      "title": "Vue.js",
+      "description": "Vue.js Candır",
+      "url": "https://vuejs.org/",
+      "updateStatus": false,
+      "id": 1
+    },
+    {
+      "title": "React",
+      "description": "React öğrenen de ne bileyim..",
+      "url": "http://reactjs.org/",
+      "updateStatus": false,
+      "id": 2
+    },
+    {
+      "title": "Html",
+      "description": "HTML DERSLERİ",
+      "url": "www.w3schools.com",
+      "updateStatus": false,
+      "id": 3
+    }
+  ]
+}
