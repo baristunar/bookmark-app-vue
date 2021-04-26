@@ -1,6 +1,6 @@
 # bookmark-app-with-axios
 
-Bookmark Items uygulamasının Componentlere bölünmesi için gereken başlangıç kodu. İlgili Bilgiler WATCHME.mp4 dosyasındadır.
+Bookmark Items uygulamasının Componentlere bölünmesi için gereken başlangıç kodu. 
 
 ## Project setup
 
