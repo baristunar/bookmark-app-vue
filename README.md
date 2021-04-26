@@ -1,7 +1,5 @@
 # bookmark-app-with-axios
 
-Bookmark Items uygulamasının Componentlere bölünmesi için gereken başlangıç kodu. 
-
 ## Project setup
 
 ```
